@@ -5,7 +5,10 @@
 </template>
 
 <style scoped>
-    
+    img{
+        z-index: 0;
+        position: relative;
+    }
     
     
 </style>
